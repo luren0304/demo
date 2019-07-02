@@ -1,0 +1,25 @@
+{"product":"Loans","order":0,"field":"prodId","fielddesc":"Product ID","show":true}
+{"product":"Loans","order":1,"field":"product","fielddesc":"Product","show":true}
+{"product":"Loans","order":2,"field":"type","fielddesc":"Type","show":true}
+{"product":"Loans","order":3,"field":"subtype","fielddesc":"SubType","show":true}
+{"product":"Loans","order":4,"field":"interestRate","fielddesc":"Interest Rate","show":true}
+{"product":"Loans","order":5,"field":"prdinfo1","fielddesc":"Product Info. 1","show":true}
+{"product":"Loans","order":6,"field":"prdinfo2","fielddesc":"Product Info. 2","show":true}
+{"product":"Loans","order":7,"field":"prdinfo3","fielddesc":"Product Info. 3","show":true}
+{"product":"Loans","order":8,"field":"fee","fielddesc":"Fee","show":true}
+{"product":"Loans","order":9,"field":"remark","fielddesc":"Remarks","show":true}
+{"product":"Deposits","order":0,"field":"prodId","fielddesc":"Product ID","show":true}
+{"product":"Deposits","order":1,"field":"product","fielddesc":"Product","show":true}
+{"product":"Deposits","order":2,"field":"type","fielddesc":"Type","show":true}
+{"product":"Deposits","order":3,"field":"subtype","fielddesc":"SubType","show":true}
+{"product":"Deposits","order":4,"field":"currency","fielddesc":"Currency","show":true}
+{"product":"Deposits","order":5,"field":"interestRate","fielddesc":"Interest Rate","show":true}
+{"product":"Deposits","order":6,"field":"minamount","fielddesc":"Minimium Amount","show":true}
+{"product":"Deposits","order":7,"field":"fee","fielddesc":"Fee","show":true}
+{"product":"Deposits","order":8,"field":"remark","fielddesc":"Remarks","show":true}
+{"product":"EXCH_RATE","order":0,"field":"EXCH_RATE_SPOT_DAY","fielddesc":"EXCH_RATE_SPOT_DAY","show":true}
+{"product":"EXCH_RATE","order":1,"field":"bid","fielddesc":"BID","show":true}
+{"product":"EXCH_RATE","order":2,"field":"ask","fielddesc":"ASK","show":true}
+{"product":"EXCH_RATE","order":3,"field":"mid","fielddesc":"MID","show":true}
+{"product":"EXCH_RATE","order":4,"field":"feed_Source","fielddesc":"FEED_SOURCE","show":true}
+{"product":"EXCH_RATE","order":5,"field":"lastDate","fielddesc":"LAST_UPDATE","show":true}
